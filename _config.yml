@@ -1,11 +1,11 @@
 # Site settings
-author: Morgan Matney
-title: 
+author: Morgan
+title: Journeys in Creating a Future in Coding
 header-img: img/home-bg.png
 email: morgan.matney89@gmail.com
-copyright_name: Morgan Matney
+copyright_name: Morgan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Self-Paced Software Engineering Adventure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mmatney22
